@@ -1,0 +1,91 @@
+*{
+    
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .introduccion{
+        background-image:url(https://img.freepik.com/fotos-premium/botones-teclado-resumen-tecnologia-informatica-fondo-pancarta-ancha-horizontal-espacio-libre-texto_392798-97.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 3%;
+        font-size: larger;
+        color: #e2cdd9;
+        text-align: center;
+    }
+    
+    div.introduccion p{
+        font-style: italic;
+    }
+    
+    hr,ul,li,a{
+        color: #590b6d;
+    }
+        
+    
+    
+    body{
+        background-image:url(https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 200px; 
+    }
+    
+    table>thead>tr>th {
+        color: rgb(71, 24, 102);
+        text-decoration:underline; 
+        text-decoration-color: rgb(117, 23, 117);
+        text-decoration-thickness: 2px;
+    }
+    
+    
+    input[type="submit"] {
+        border-radius: 8px;
+        border: 2px solid #e069af;
+    }
+    
+    select {
+        border-radius: 8px;
+        border: 2px solid #e069af;
+    }
+    
+    input[type="text"] {
+        border-radius: 8px;
+        border: 2px solid #e069af;
+        padding: 2px; 
+    }
+    
+    textarea {
+        border-radius: 8px;
+        border: 2px solid #e069af;
+    }
+    
+    h2{
+        background-image:url(https://img.freepik.com/fotos-premium/botones-teclado-resumen-tecnologia-informatica-fondo-pancarta-ancha-horizontal-espacio-libre-texto_392798-97.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 5%;
+        color: #e2cdd9;
+    }
+    
+    .imagen{ 
+        text-align: center;
+    
+    }
+    img{
+        border-radius: 40%;
+        border: 10px solid #a75e88;
+    }
+    #ExpP{
+    font-style: italic;
+        
+    }
+    
+    #contact{
+        text-align: center;
+    }
+    #list{
+        border: 1px solid #590b6d;
+        border-radius: 2%;
+    }
+    
